@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bracket-highlighter README
 
 This is the README for your extension "bracket-highlighter". After writing up a brief description, we recommend including the following sections.
@@ -63,3 +64,6 @@ Added features X, Y, and Z.
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# vscode-brackets-highlighter
+>>>>>>> 98fe74377218be149a7c74aa194634d4a682601b
